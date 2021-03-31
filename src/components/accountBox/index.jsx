@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { AccountContext } from "./accountContext";
 import { SignupForm } from "./signupForm";
 import { ProfileView } from './profileView';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 
 
 const BoxContainer = styled.div`
